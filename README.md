@@ -1,2 +1,2 @@
 # cookieclicker
-[View] (https://jberanova.github.io/cookieclicker/)
+[View](https://jberanova.github.io/cookieclicker/)
