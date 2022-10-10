@@ -1,0 +1,39 @@
+#cookie{
+    display: block;
+    max-width: 240px;
+width: 100%;
+margin: 0 auto;
+}
+p{
+    text-align: center;;
+}
+
+body{
+  background-image: url("../img/to.jpg");  
+  background-repeat: no-repeat;
+  background-size: 1380px;
+}
+#cookieClickerMultiplier{
+    border-radius: 0.5em;
+    background-color: lightblue;
+}
+#cookieClickerMultiplier2{
+    border-radius: 0.5em;
+    background-color: lightskyblue;
+}
+#cookieClickerMultiplier3{
+    border-radius: 0.5em;
+    background-color:lightblue;
+}
+#cookieClickerMultiplier4{
+    border-radius: 0.5em;
+    background-color: lightskyblue;
+}
+#AutoClickerButton{
+    border-radius: 0.5em;
+    background-color: lightblue;
+ 
+}
+#counter {
+    border: 1px solid black;
+}
